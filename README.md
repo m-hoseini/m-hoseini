@@ -1,7 +1,8 @@
 ## Hi there 👋
 I am an associate professor of economics currently working at Tehran Institute for Advanced Studies.
-I obtained my PhD from Tilburg University, the Netherlands.
+I am Interested in economics, programming, data science, optimization, and so on.
 You can find more information about my work on https://m-hoseini.github.io/
+
 <!--
 **m-hoseini/m-hoseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
