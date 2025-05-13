@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am an associate professor of economics currently working at Tehran Institute for Advanced Studies.
+I am currently working at Tehran Institute for Advanced Studies.
 I am Interested in economics, programming, data science, optimization, and so on.
 You can find more information about my work on https://m-hoseini.github.io/
 
